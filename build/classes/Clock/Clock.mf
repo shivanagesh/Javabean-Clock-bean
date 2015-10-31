@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+
+Name: Clock/Clock.class
+Java-Bean: True
